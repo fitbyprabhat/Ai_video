@@ -1,0 +1,44 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "useFor": "If you want to use this style for other characters",
+      "prompt": "A high-quality historical oil painting of [INSERT SUBJECT NAME] standing formally. The image is designed as a YouTube thumbnail with modern graphic overlays. A jagged red paint stroke in the top left corner contains the word \"Why?\" in bold white text. A red sketched arrow points specifically to [INSERT DETAIL, e.g., their hand/pocket/hat]. The lighting is museum-quality."
+    },
+    {
+      "id": 2,
+      "useFor": "Use this to apply the same collage and red-hand style to different subjects",
+      "prompt": "A conceptual editorial illustration in the style of a Vox Future Perfect graphic. The central subject is a grayscale, vintage-style illustration of a [INSERT SUBJECT, e.g., mechanical engine / human brain / city skyline], which has been cut into four distinct sections. Four large, red-gloved hands enter the frame from the corners, each pointing with an index finger at one of the subject's sections. The background is a technical blueprint schematic with faint white lines, circles, and schematics, overlaid with subtle, aged paper textures. The overall aesthetic is a collage of diagrammatic and graphic design elements."
+    },
+    {
+      "id": 3,
+      "useFor": "Use this to apply the same blueprint and yellow highlight style to different subjects",
+      "prompt": "A technical line drawing illustration in the style of a Vox video thumbnail. Against a solid dark grey background, white serif text at the top reads \"[INSERT TITLE, e.g., The new rocket / A nuclear reactor]\". Below it is a clean, white outline blueprint of a [INSERT SUBJECT, e.g., spacecraft / power plant]. One specific, crucial section of the [INSERT SUBJECT], such as the [INSERT SPECIFIC PART, e.g., booster engine / cooling tower], is filled in with a solid, bright yellow color. This yellow section has a thin red outline and a red dashed line indicating a path or area beneath or around it. The white \"Vox\" logo is in the bottom left corner. The style is clean, informational, and schematic."
+    },
+    {
+      "id": 4,
+      "useFor": "Use this for dramatic financial or personal transformation comparisons",
+      "prompt": "A dramatic split-screen YouTube thumbnail comparison with a sharp diagonal divider. The left half is dark, moody, and desaturated, showing [INSERT SUBJECT DESCRIPTION] looking despondent, dressed casually (e.g., black t-shirt), looking down with a hand on their chin. The background is a dim, blurred office. At the top left, a black rounded rectangular graphic displays a red down-arrow icon and red text \"[INSERT NEGATIVE NUMBER/TEXT, e.g., -90 Cr]\". The right half is bathed in bright, warm, golden light, showing the same [INSERT SUBJECT DESCRIPTION] smiling broadly, looking up triumphantly, dressed formally (e.g., black blazer). The background is luxurious and glowing. At the top right, a black rounded rectangular graphic displays a yellow up-arrow icon and yellow text \"[INSERT POSITIVE NUMBER/TEXT, e.g., 600 Cr]\". A subtle line graph overlay trends down on the left and sharply up on the right. The white \"[INSERT LOGO NAME, e.g., GrowthX]\" logo is in the bottom left corner."
+    },
+    {
+      "id": 5,
+      "useFor": "Use this for chronological or technological evolution comparisons",
+      "prompt": "A three-panel vertical split-screen YouTube thumbnail illustrating an evolution. Left Panel (Past): A desaturated, black and white historical photograph of [INSERT SUBJECT 1, e.g., a historical figure or early technology]. The background is an industrial or historical setting (e.g., a factory). At the top, there is a rectangular box with a solid [INSERT COLOR 1, e.g., YELLOW] background and bold black text \"[INSERT TITLE 1, e.g., OIL]\". Middle Panel (Present): A modern, full-color photograph of [INSERT SUBJECT 2, e.g., a contemporary figure or current technology]. The background is a modern office or home setting. At the top, there is a rectangular box with a solid [INSERT COLOR 2, e.g., BLUE] background and bold white text \"[INSERT TITLE 2, e.g., INTERNET]\". Right Panel (Future): A futuristic, digital illustration of [INSERT SUBJECT 3, e.g., a robot or future concept]. The background is an abstract, glowing digital grid or futuristic landscape. At the top, there is a rectangular box with a solid [INSERT COLOR 3, e.g., WHITE] background and bold black text \"[INSERT TITLE 3, e.g., AI]\". The white \"GrowthX\" logo is in the bottom left corner. The overall style is clean and uses distinct color coding for each era."
+    },
+    {
+      "id": 6,
+      "useFor": "Use this for financial data, market share, or statistical breakdowns",
+      "prompt": "A professional financial infographic illustration in the style of The Wall Street Journal's \"The Economics Of\" series. The background is a textured, light greenish-grey paper, resembling currency or high-quality newsprint. In the center is a large, textured pie chart representing [INSERT TOPIC, e.g., Smartphone Market Share / Global Oil Reserves]. The chart is divided into distinct sections colored in stippled, grainy shades of [INSERT COLORS, e.g., red, emerald green, and teal]. Floating rounded rectangular labels containing text like \"[INSERT LABEL 1, e.g., Apple]\" and \"[INSERT LABEL 2, e.g., Samsung]\" point to specific slices with thin black lines. At the top, a clean white banner contains the bold black headline \"[INSERT TITLE TEXT]\". Large white percentage numbers are visible on the chart slices. The bottom features the elegant serif text \"The Economics of\"."
+    },
+    {
+      "id": 7,
+      "useFor": "Use this for geopolitical explainers, military strategy maps, or regional conflict visualizations",
+      "prompt": "A geopolitical data visualization map in the style of \"WSJ Explains\". The background is a dark, muted grey base map of [INSERT REGION, e.g., Eastern Europe / South China Sea]. Entity 1 (Blue): Countries belonging to [INSERT GROUP 1 NAME, e.g., NATO / Allies] are highlighted in solid bright blue. A black label box with white text reads \"[INSERT LABEL 1]\". Entity 2 (Red): The opposing territory of [INSERT GROUP 2 NAME, e.g., Russia / Opposing Force] is highlighted in solid bright red. A black label box with white text reads \"[INSERT LABEL 2]\". Conflict Elements: Along the border between the two zones, there are several glowing orange circular markers indicating [INSERT KEY LOCATIONS, e.g., strategic bases / hotspots]. Dashed orange lines connect these points. Movement: Multiple stylized icons of [INSERT ASSETS, e.g., fighter jets / naval ships / missiles], colored in glowing orange and red, are depicted flying/moving from the red zone towards the blue zone. Branding: In the bottom left corner, large white serif text reads \"WSJ | EXPLAINS\"."
+    },
+    {
+      "id": 8,
+      "useFor": "Use this for international agreements, loans, or financial comparisons between two nations",
+      "prompt": "A professional informational graphic in the style of \"WSJ Explains\" for a financial topic. The background is a textured, dark grey chalkboard surface. Central Figure: In the center, large, bold, white sans-serif text reads \"[INSERT AMOUNT, e.g., $50 MILLION / €10 BILLION]\". Left Side: On the left, a flag on a pole represents [INSERT COUNTRY 1 NAME]. Right Side: On the right, a flag on a pole represents [INSERT COUNTRY 2 NAME]. Currency Elements: Above the central text, a stack of [INSERT CURRENCY 1 NAME, e.g., Japanese Yen] banknotes is visible. Below the central text, a stack of [INSERT CURRENCY 2 NAME, e.g., US Dollars] banknotes is visible. Connection: A dashed white line forms a large loop connecting the flags and both stacks of currency, encircling the central text. Branding: In the bottom left corner, large white serif text reads \"WSJ | EXPLAINS\"."
+    }
+  ]
+}
